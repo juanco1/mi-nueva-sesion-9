@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tienda de video juegos</title>
+    <nav>
+        <a href="# inicio">inicio</a>
+        < br>
+        <a href="# acerca">acerca</a>
+        <br>
+        <a href="# contactenos">contactenos</a>
+        <br>
+    </nav>
+    <main>
+        <div>
+            <h2>inicio</h2>
+            <p>te traemos los mejores video juegos</p> 
+        </div>
+        <div>
+            <h2>acerca de</h2>
+            <p>pagina dedicada a subir videojuegos para todo tipo de servidor</p>
+        </div>
+        <div>
+            <h2>contactenos</h2>
+            <p>3135889547</p>
+        </div>
+    </main>
+</head>
+<body>
+    <header>
+        <h1>juegos a presentar</h1>
+        <p> tipos de juegos</p>
+        <p>disparos,aventura,aprendisaje</p>
+         <img src="" alt="juegos divertidos">
+    </header>
+    
+</body>
+</html>
